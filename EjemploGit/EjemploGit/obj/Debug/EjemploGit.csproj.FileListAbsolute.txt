@@ -1,0 +1,20 @@
+C:\Users\Angel Velazco\source\repos\EjemploGit\EjemploGit\bin\Debug\EjemploGit.exe.config
+C:\Users\Angel Velazco\source\repos\EjemploGit\EjemploGit\bin\Debug\EjemploGit.exe
+C:\Users\Angel Velazco\source\repos\EjemploGit\EjemploGit\bin\Debug\EjemploGit.pdb
+C:\Users\Angel Velazco\source\repos\EjemploGit\EjemploGit\obj\Debug\EjemploGit.csprojResolveAssemblyReference.cache
+C:\Users\Angel Velazco\source\repos\EjemploGit\EjemploGit\obj\Debug\EjemploGit.Form1.resources
+C:\Users\Angel Velazco\source\repos\EjemploGit\EjemploGit\obj\Debug\EjemploGit.Properties.Resources.resources
+C:\Users\Angel Velazco\source\repos\EjemploGit\EjemploGit\obj\Debug\EjemploGit.csproj.GenerateResource.Cache
+C:\Users\Angel Velazco\source\repos\EjemploGit\EjemploGit\obj\Debug\EjemploGit.csproj.CoreCompileInputs.cache
+C:\Users\Angel Velazco\source\repos\EjemploGit\EjemploGit\obj\Debug\EjemploGit.exe
+C:\Users\Angel Velazco\source\repos\EjemploGit\EjemploGit\obj\Debug\EjemploGit.pdb
+C:\Users\Angel Velazco\Desktop\EJEMPLO GIT\EjemploGit\EjemploGit\bin\Debug\EjemploGit.exe.config
+C:\Users\Angel Velazco\Desktop\EJEMPLO GIT\EjemploGit\EjemploGit\bin\Debug\EjemploGit.exe
+C:\Users\Angel Velazco\Desktop\EJEMPLO GIT\EjemploGit\EjemploGit\bin\Debug\EjemploGit.pdb
+C:\Users\Angel Velazco\Desktop\EJEMPLO GIT\EjemploGit\EjemploGit\obj\Debug\EjemploGit.csprojResolveAssemblyReference.cache
+C:\Users\Angel Velazco\Desktop\EJEMPLO GIT\EjemploGit\EjemploGit\obj\Debug\EjemploGit.Form1.resources
+C:\Users\Angel Velazco\Desktop\EJEMPLO GIT\EjemploGit\EjemploGit\obj\Debug\EjemploGit.Properties.Resources.resources
+C:\Users\Angel Velazco\Desktop\EJEMPLO GIT\EjemploGit\EjemploGit\obj\Debug\EjemploGit.csproj.GenerateResource.Cache
+C:\Users\Angel Velazco\Desktop\EJEMPLO GIT\EjemploGit\EjemploGit\obj\Debug\EjemploGit.csproj.CoreCompileInputs.cache
+C:\Users\Angel Velazco\Desktop\EJEMPLO GIT\EjemploGit\EjemploGit\obj\Debug\EjemploGit.exe
+C:\Users\Angel Velazco\Desktop\EJEMPLO GIT\EjemploGit\EjemploGit\obj\Debug\EjemploGit.pdb
