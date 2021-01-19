@@ -18,3 +18,4 @@ C:\Users\Angel Velazco\Desktop\EJEMPLO GIT\EjemploGit\EjemploGit\obj\Debug\Ejemp
 C:\Users\Angel Velazco\Desktop\EJEMPLO GIT\EjemploGit\EjemploGit\obj\Debug\EjemploGit.csproj.CoreCompileInputs.cache
 C:\Users\Angel Velazco\Desktop\EJEMPLO GIT\EjemploGit\EjemploGit\obj\Debug\EjemploGit.exe
 C:\Users\Angel Velazco\Desktop\EJEMPLO GIT\EjemploGit\EjemploGit\obj\Debug\EjemploGit.pdb
+C:\Users\Angel Velazco\Desktop\EJEMPLO GIT\EjemploGit\EjemploGit\obj\Debug\EjemploGit.Productos.resources

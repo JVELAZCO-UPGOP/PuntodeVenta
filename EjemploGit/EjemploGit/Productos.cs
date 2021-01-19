@@ -10,16 +10,18 @@ using System.Windows.Forms;
 
 namespace EjemploGit
 {
-    public partial class Form1 : Form
+    public partial class Productos : Form
     {
-        public Form1()
+        public Productos()
         {
             InitializeComponent();
         }
 
-        private void btn_salir_Click(object sender, EventArgs e)
+        private void btn_iraClientes_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            Form1 F = new Form1();
+            F.Show();
+            this.Hide();
         }
     }
 }
