@@ -51,6 +51,12 @@
     <Compile Include="Desarrollador1.Designer.cs">
       <DependentUpon>Desarrollador1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Desarrollador2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Desarrollador2.Designer.cs">
+      <DependentUpon>Desarrollador2.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -73,6 +79,9 @@
     </Compile>
     <EmbeddedResource Include="Desarrollador1.resx">
       <DependentUpon>Desarrollador1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Desarrollador2.resx">
+      <DependentUpon>Desarrollador2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
