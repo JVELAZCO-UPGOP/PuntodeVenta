@@ -20,3 +20,4 @@ C:\Users\Angel Velazco\Desktop\EJEMPLO GIT\EjemploGit\EjemploGit\obj\Debug\Ejemp
 C:\Users\Angel Velazco\Desktop\EJEMPLO GIT\EjemploGit\EjemploGit\obj\Debug\EjemploGit.pdb
 C:\Users\Angel Velazco\Desktop\EJEMPLO GIT\EjemploGit\EjemploGit\obj\Debug\EjemploGit.Productos.resources
 C:\Users\Angel Velazco\Desktop\EJEMPLO GIT\EjemploGit\EjemploGit\obj\Debug\EjemploGit.Proveedores.resources
+C:\Users\Angel Velazco\Desktop\EJEMPLO GIT\EjemploGit\EjemploGit\obj\Debug\EjemploGit.Desarrollador1.resources
