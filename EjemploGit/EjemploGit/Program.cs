@@ -16,7 +16,7 @@ namespace EjemploGit
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Desarrollador1());
+            Application.Run(new Form1());
         }
     }
 }
